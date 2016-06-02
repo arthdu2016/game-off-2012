@@ -17,5 +17,5 @@
         "type":"tooltip","x":650,"y":641,"width":50,"height":50,
         "text":"Press <span class='button c'>c</span> to create a clone<br/>Press <span class='button tab'>tab</span> to switch between them"
     },
-    {"type":"goal","x":890,"y":540}
+    {"type":"goal","x":90,"y":540}
 ]
